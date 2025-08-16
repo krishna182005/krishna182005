@@ -1,12 +1,54 @@
-- 👋 Hi, I’m @krishna182005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Greeting -->
+# Hi there, I’m **Krishna** ([@krishna182005](https://github.com/krishna182005)) 👋
 
-<!---
-krishna182005/krishna182005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+##  About Me
+- I’m a **friendly web developer** with a passion for building user-friendly interfaces and intelligent apps.
+- My interests span **(e.g., Front-end Development, AI integration, Automation, etc.)**.
+- Currently exploring **(e.g., TensorFlow, React Native, GPT APIs, etc.)**.
+
+---
+
+##  Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
+- **Backend & Automation:** Node.js, Python
+- **Tools:** Git, GitHub Actions, Docker
+- **AI & ML:** (if applicable: OpenAI, TensorFlow, scikit-learn)
+
+---
+
+## ​ Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [portfolio](https://github.com/krishna182005/portfolio) | My personal website showcasing my skills & projects. | HTML, CSS, JS |
+| [universal_ai_assistant](https://github.com/krishna182005/universal_ai_assistant) | A smart assistant to simplify tasks. | Python, AI frameworks |
+| [Tele_bot](https://github.com/krishna182005/Tele_bot) | Telegram bot for __________. | Python, Tele-bot API |
+
+---
+
+##  Currently Working On
+- Deepening knowledge in **AI integration and automation**.
+- Building **(just mention any upcoming project or learning goal)**.
+
+---
+
+##  Let's Collaborate!
+I’m open to:
+- Collaborating on creative web or AI-driven projects.
+- Learning together or contributing to open-source.
+
+---
+
+##  Reach Me
+- **Email:** your-email@example.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) *(optional)*
+
+---
+
+##  Fun Fact
+> Did you know I love **(e.g., stargazing, cooking, learning new languages, painting, etc.)** in my free time?
+
+---
+
+Thanks for stopping by!icopter)
