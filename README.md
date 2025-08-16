@@ -41,8 +41,8 @@ I’m open to:
 ---
 
 ##  Reach Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) *(optional)*
+- **Email:** krishnavembuli@gmail.com  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/krishna-d-140594372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
